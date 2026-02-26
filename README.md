@@ -1,4 +1,4 @@
-## ⚡ Electrònica d’un potenciòstat aplicada a la identificació d’un model electroquímic
+# Electrònica d’un potenciòstat aplicada a la identificació d’un model electroquímic
 
 [![DOI](https://zenodo.org/badge/DOI/XXX.svg)](https://doi.org/XXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](/LICENSE)
