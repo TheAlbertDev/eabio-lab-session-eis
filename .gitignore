@@ -1,0 +1,21 @@
+# Ignorar archivos temporales de Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar kernels y perfiles virtuales
+.ipython/
+.jupyter/
+.venv/
+env/
+venv/
+
+# Ignorar archivos de configuración de VSCode
+.vscode/
+
+# Ignorar archivos de sistema
+.DS_Store

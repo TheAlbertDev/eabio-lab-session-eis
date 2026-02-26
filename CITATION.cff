@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Electrónica d’un potenciostat aplicada a la identificació
+  d’un model electroquímic
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Albert
+    family-names: Álvarez-Carulla
+    email: albertalvarez@ub.edu
+    affiliation: Universitat de Barcelona
+    orcid: 'https://orcid.org/0000-0001-5293-4487'
+  - given-names: López-Sánchez
+    family-names: Jaime
+    email: jaime_lopez@ub.edu
+    affiliation: Universitat de Barcelona
+    orcid: 'https://orcid.org/0000-0001-9111-5687'
+  - given-names: Pere
+    family-names: Miribel-Català
+    name-particle: Lluís
+    email: peremiribelcatala@ub.edu
+    affiliation: Universitat de Barcelona
+    orcid: 'https://orcid.org/0000-0002-2715-6684'
+identifiers:
+  - type: doi
+    value: 10.3389/frlct.2025.1688689
+repository-code: 'https://github.com/TheAlbertDev/eabio-lab-session-eis'
+abstract: Empty abstract
+keywords:
+  - biomedical
+  - teaching
+  - electrochemical
+license: MIT
